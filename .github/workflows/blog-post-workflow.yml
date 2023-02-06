@@ -14,3 +14,11 @@ jobs:
           max_post_count: '5'
           remove_duplicates: true
           feed_list: 'https://blog.a26nine.dev/rss.xml'
+  update-readme-with-typefully:
+    name: Update this repo's README with latest Typefully posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v2
+        with:
+          feed-url: https://typefully.com/a26nine/rss.xml
+          readme-section: typefully
