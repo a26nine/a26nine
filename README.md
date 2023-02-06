@@ -10,6 +10,10 @@
 
 <!--START_SECTION:typefully-->
 * [Blockchain Notifications with QuickAlerts](https://typefully.com/a26nine/4P6mjhQ)
+* [Introducing QuickAlerts by QuickNode](https://typefully.com/a26nine/d19asE2)
+* [What are Smart Contracts?](https://typefully.com/a26nine/yehjrCC)
+* [Ethereum KZG Ceremony](https://typefully.com/a26nine/HCPyttY)
+* [Justifying Quick in QuickNode](https://typefully.com/a26nine/vzZYnSd)
 <!--END_SECTION:typefully-->
 
 ### 🔗 Connect With Me
