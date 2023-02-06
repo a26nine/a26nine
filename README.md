@@ -6,6 +6,8 @@
 - [Build Ethereum Balance Checker in Python](https://blog.a26nine.dev/build-ethereum-balance-checker-in-python)
 <!-- BLOG-POST-LIST:END -->
 
+### 🧵 Latest Twitter Threads
+
 <!--START_SECTION:typefully-->
 * [Blockchain Notifications with QuickAlerts](https://typefully.com/a26nine/4P6mjhQ)
 <!--END_SECTION:typefully-->
