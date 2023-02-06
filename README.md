@@ -6,6 +6,9 @@
 - [Build Ethereum Balance Checker in Python](https://blog.a26nine.dev/build-ethereum-balance-checker-in-python)
 <!-- BLOG-POST-LIST:END -->
 
+<!--START_SECTION:typefully-->
+<!--END_SECTION:typefully-->
+
 ### 🔗 Connect With Me
 
 <p align="left">
