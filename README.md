@@ -7,6 +7,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:typefully-->
+* [Blockchain Notifications with QuickAlerts](https://typefully.com/a26nine/4P6mjhQ)
 <!--END_SECTION:typefully-->
 
 ### 🔗 Connect With Me
