@@ -9,6 +9,7 @@
 ### 🧵 Latest Twitter Threads
 
 <!--START_SECTION:typefully-->
+* [Shanghai Tracker - Ethereum Beacon Wallet Notification Stream](https://typefully.com/a26nine/IgwIjbw)
 * [Blockchain Notifications with QuickAlerts](https://typefully.com/a26nine/4P6mjhQ)
 * [Introducing QuickAlerts by QuickNode](https://typefully.com/a26nine/d19asE2)
 * [What are Smart Contracts?](https://typefully.com/a26nine/yehjrCC)
