@@ -9,7 +9,7 @@
 ### 🧵 Latest Twitter Threads
 
 <!--START_SECTION:typefully-->
-* [FuelVM: A Proposed Solution to Ethereum's Scalability Challenge](https://typefully.com/a26nine/F5ARA7a)
+* [FuelVM: A Proposed Solution to Ethereum's Scalability Challenge](https://typefully.com/a26nine/hQMgJtx)
 * [Celestia: PayForBlobs Transactions](https://typefully.com/a26nine/tZ4LLca)
 * [EIP-7702: Enhancing ERC-4337 and Transforming Ethereum Wallet UX](https://typefully.com/a26nine/aIIWfvE)
 * [Shanghai Tracker - Ethereum Beacon Wallet Notification Stream](https://typefully.com/a26nine/IgwIjbw)
