@@ -9,11 +9,11 @@
 ### 🧵 Latest Twitter Threads
 
 <!--START_SECTION:typefully-->
-* [FuelVM: A Proposed Solution to Ethereum's Scalability Challenge](https://typefully.com/a26nine/hQMgJtx)
-* [Celestia: PayForBlobs Transactions](https://typefully.com/a26nine/tZ4LLca)
-* [EIP-7702: Enhancing ERC-4337 and Transforming Ethereum Wallet UX](https://typefully.com/a26nine/aIIWfvE)
-* [Shanghai Tracker - Ethereum Beacon Wallet Notification Stream](https://typefully.com/a26nine/IgwIjbw)
-* [Blockchain Notifications with QuickAlerts](https://typefully.com/a26nine/4P6mjhQ)
+* [FuelVM: A Proposed Solution to Ethereum's Scalability Challenge](https://typefully.com/a26nine/fuelvm-a-proposed-solution-to-ethereums-hQMgJtx)
+* [Celestia: PayForBlobs Transactions](https://typefully.com/a26nine/celestia-payforblobs-transactions-tZ4LLca)
+* [EIP-7702: Enhancing ERC-4337 and Transforming Ethereum Wallet UX](https://typefully.com/a26nine/eip-7702-enhancing-erc-4337-and-aIIWfvE)
+* [Shanghai Tracker - Ethereum Beacon Wallet Notification Stream](https://typefully.com/a26nine/shanghai-tracker-ethereum-beacon-wallet-IgwIjbw)
+* [Blockchain Notifications with QuickAlerts](https://typefully.com/a26nine/blockchain-notifications-with-quickalerts-4P6mjhQ)
 <!--END_SECTION:typefully-->
 
 ### 🔗 Connect With Me
