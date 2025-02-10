@@ -9,11 +9,11 @@
 ### 🧵 Latest Twitter Threads
 
 <!--START_SECTION:typefully-->
-* [Build On: A QuickNode Hackathon](https://typefully-ect08na7o-typefully.vercel.app/a26nine/build-on-a-quicknode-hackathon-paYvOVO)
-* [FuelVM: A Proposed Solution to Ethereum's Scalability Challenge](https://typefully-ect08na7o-typefully.vercel.app/a26nine/fuelvm-a-proposed-solution-to-ethereums-hQMgJtx)
-* [Celestia: PayForBlobs Transactions](https://typefully-ect08na7o-typefully.vercel.app/a26nine/celestia-payforblobs-transactions-tZ4LLca)
-* [EIP-7702: Enhancing ERC-4337 and Transforming Ethereum Wallet UX](https://typefully-ect08na7o-typefully.vercel.app/a26nine/eip-7702-enhancing-erc-4337-and-aIIWfvE)
-* [Shanghai Tracker - Ethereum Beacon Wallet Notification Stream](https://typefully-ect08na7o-typefully.vercel.app/a26nine/shanghai-tracker-ethereum-beacon-wallet-IgwIjbw)
+* [Build On: A QuickNode Hackathon](https://typefully.com/a26nine/build-on-a-quicknode-hackathon-paYvOVO)
+* [FuelVM: A Proposed Solution to Ethereum's Scalability Challenge](https://typefully.com/a26nine/fuelvm-a-proposed-solution-to-ethereums-hQMgJtx)
+* [Celestia: PayForBlobs Transactions](https://typefully.com/a26nine/celestia-payforblobs-transactions-tZ4LLca)
+* [EIP-7702: Enhancing ERC-4337 and Transforming Ethereum Wallet UX](https://typefully.com/a26nine/eip-7702-enhancing-erc-4337-and-aIIWfvE)
+* [Shanghai Tracker - Ethereum Beacon Wallet Notification Stream](https://typefully.com/a26nine/shanghai-tracker-ethereum-beacon-wallet-IgwIjbw)
 <!--END_SECTION:typefully-->
 
 ### 📊 GitHub Stats
