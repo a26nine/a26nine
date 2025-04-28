@@ -9,11 +9,11 @@
 ### 🧵 Latest Twitter Threads
 
 <!--START_SECTION:typefully-->
+* [Ethereum's Pectra Upgrade: What You Need to Know](https://typefully.com/a26nine/ethereums-pectra-upgrade-what-you-need-to-7KE0oee)
 * [ELI5: MonadBFT — A Robust Blockchain Consensus Protocol](https://typefully.com/a26nine/eli5-monadbft-a-robust-blockchain-consensus-lGWo2YQ)
 * [Build On: A QuickNode Hackathon](https://typefully.com/a26nine/build-on-a-quicknode-hackathon-paYvOVO)
 * [FuelVM: A Proposed Solution to Ethereum's Scalability Challenge](https://typefully.com/a26nine/fuelvm-a-proposed-solution-to-ethereums-hQMgJtx)
 * [Celestia: PayForBlobs Transactions](https://typefully.com/a26nine/celestia-payforblobs-transactions-tZ4LLca)
-* [EIP-7702: Enhancing ERC-4337 and Transforming Ethereum Wallet UX](https://typefully.com/a26nine/eip-7702-enhancing-erc-4337-and-aIIWfvE)
 <!--END_SECTION:typefully-->
 
 ### 📊 GitHub Stats
