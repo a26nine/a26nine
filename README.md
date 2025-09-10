@@ -1,11 +1,11 @@
 ### 📗 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<!--START_SECTION:blog-->
+- [QuickNode: The Quickest Solana Node Provider](https://blog.a26nine.dev/quicknode-the-quickest-solana-node-provider)
+- [Justifying Quick in QuickNode: A Response Time Comparison of Blockchain Node Providers](https://blog.a26nine.dev/justifying-quick-in-quicknode)
 - [Build Ethereum Address Explorer using QuickNode](https://blog.a26nine.dev/build-ethereum-address-explorer-using-quicknode)
 - [Address Lookup Tables and Versioned Transactions on Solana](https://blog.a26nine.dev/address-lookup-tables-and-versioned-transactions-on-solana)
 - [Build Ethereum Balance Checker in Python](https://blog.a26nine.dev/build-ethereum-balance-checker-in-python)
-<!--END_SECTION:blog-->
 <!-- BLOG-POST-LIST:END -->
 
 ### 🧵 Latest Twitter Threads
