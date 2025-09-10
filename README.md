@@ -1,9 +1,11 @@
 ### 📗 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+<!--START_SECTION:blog-->
 - [Build Ethereum Address Explorer using QuickNode](https://blog.a26nine.dev/build-ethereum-address-explorer-using-quicknode)
 - [Address Lookup Tables and Versioned Transactions on Solana](https://blog.a26nine.dev/address-lookup-tables-and-versioned-transactions-on-solana)
 - [Build Ethereum Balance Checker in Python](https://blog.a26nine.dev/build-ethereum-balance-checker-in-python)
+<!--END_SECTION:blog-->
 <!-- BLOG-POST-LIST:END -->
 
 ### 🧵 Latest Twitter Threads
