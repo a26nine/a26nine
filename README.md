@@ -8,14 +8,14 @@
 - [Build Ethereum Balance Checker in Python](https://blog.a26nine.dev/build-ethereum-balance-checker-in-python)
 <!-- BLOG-POST-LIST:END -->
 
-### 🧵 Latest Twitter Threads
+<!-- ### 🧵 Latest Twitter Threads -->
 
 <!--START_SECTION:typefully-->
-* [Monad Whales: Monitor Monad transactions in real-time!](https://typefully.com/a26nine/monad-whales-monitor-monad-transactions-in-DuBpA47)
+<!-- * [Monad Whales: Monitor Monad transactions in real-time!](https://typefully.com/a26nine/monad-whales-monitor-monad-transactions-in-DuBpA47)
 * [EIP-7983: Transaction Gas Limit Cap](https://typefully.com/a26nine/eip-7983-transaction-gas-limit-cap-JU2Hysw)
 * [Alpenglow: Solana's New Consensus](https://typefully.com/a26nine/alpenglow-solanas-new-consensus-WfQOqS8)
 * [Monad vs Ethereum: Contract Size Upgrade](https://typefully.com/a26nine/monad-vs-ethereum-contract-size-upgrade-t7dfVrW)
-* [Ethereum's Pectra Upgrade: What You Need to Know](https://typefully.com/a26nine/ethereums-pectra-upgrade-what-you-need-to-7KE0oee)
+* [Ethereum's Pectra Upgrade: What You Need to Know](https://typefully.com/a26nine/ethereums-pectra-upgrade-what-you-need-to-7KE0oee) -->
 <!--END_SECTION:typefully-->
 
 ### 📊 GitHub Stats
