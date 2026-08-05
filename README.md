@@ -24,6 +24,6 @@
 
 ![](https://streak-stats.demolab.com/?user=a26nine)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=a26nine&layout=compact)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=a26nine&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=a26nine&color=blue)
